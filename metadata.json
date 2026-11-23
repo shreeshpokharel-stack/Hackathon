@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of Tomorrow",
+  "description": "Simultaneous split-screen Past (2089) and Future (2189) temporal puzzle platformer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
